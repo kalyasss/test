@@ -1,4 +1,4 @@
-host: myHost
+host:        myHost
 service: myService
 agent: myAgent
 
