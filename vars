@@ -1,4 +1,4 @@
-host = "myHost"
-service = "myService"
-agent = "myAgent"
+host: "myHost"
+service: "myService"
+agent: "myAgent"
 
