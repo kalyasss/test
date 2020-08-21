@@ -1,0 +1,3 @@
+HOST = my_host
+SERVICE = foo
+AGENT = bar
