@@ -1,0 +1,4 @@
+host = "myHost"
+service = "myService"
+agent = "myAgent"
+
