@@ -1,0 +1,8 @@
+dev:
+  host:        myHost
+  service: myService
+  agent: myAgent
+stage:
+  host: hostStage
+  service: serviceStage
+  agent: agentStage
